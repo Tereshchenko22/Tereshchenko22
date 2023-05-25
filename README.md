@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♂️ Hi, I’m Vladyslav Tereshchenko 🇺🇦<br>👾 Self-taught Android developer<br>🎓 Bachelor of Automation and computer-integrated technologies<br>🌱 I’m currently learning Material Design Components for my future projects<br>📫 How to reach me - tereshchenko22dev@gmail.com
+🙋🏻‍♂️ Hi, I’m Vladyslav Tereshchenko <br>👾 Self-taught Android developer<br>🎓 Bachelor of Automation and computer-integrated technologies<br>🌱 I’m currently learning Material Design Components for my future projects<br>📫 How to reach me - tereshchenko22dev@gmail.com
 
 
 ## 🌐 Socials:
